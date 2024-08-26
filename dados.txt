@@ -1,0 +1,21 @@
+Nome: Alex.
+Idade: 39.
+Profissão: Programador.
+
+------------------------------
+
+Nome: Fulano de Tal.
+Idade: 18.
+Profissão: Recepcionista.
+
+------------------------------
+
+Nome: Cicrano da Silva.
+Idade: 23.
+Profissão: Assistente Administrativo.
+
+------------------------------
+
+Nome: Beltrano de Souza.
+Idade: 30.
+Profissão: Analista.
